@@ -48,11 +48,5 @@
             "description": "Processador Intel Core I3-13100F, 4-Core, 8-Threads, 3.4GHz (4.5GHz Turbo), Cache 12MB, LGA1700, BX8071513100F",
             "price": "822,35"
         }
-    ],
-    "motherboard": [],
-    "memory": [],
-    "gpu": [],
-    "hdssd": [],
-    "cabinet": [],
-    "powersupply": []
+    ]
 }
