@@ -63,6 +63,38 @@
             "price": "564,59"
         }
     ],
+    "memory": [
+        {
+            "id": 1,
+            "image": "https://media.pichau.com.br/media/catalog/product/cache/ef72d3c27864510e5d4c0ce69bade259/c/b/cb4gu2666.jpg",
+            "description": "Memoria Crucial Basics, 4GB (1x4GB), DDR4, 2666MHz, CB4GU2666",
+            "price": "79,99"
+        },
+        {
+            "id": 2,
+            "image": "https://media.pichau.com.br/media/catalog/product/cache/ef72d3c27864510e5d4c0ce69bade259/c/b/cb4gu2666.jpg",
+            "description": "Memoria Crucial Basics, 4GB (1x4GB), DDR4, 2666MHz, CB4GU2666",
+            "price": "79,99"
+        },
+        {
+            "id": 3,
+            "image": "https://media.pichau.com.br/media/catalog/product/cache/ef72d3c27864510e5d4c0ce69bade259/c/b/cb4gu2666.jpg",
+            "description": "Memoria Crucial Basics, 4GB (1x4GB), DDR4, 2666MHz, CB4GU2666",
+            "price": "79,99"
+        },
+        {
+            "id": 4,
+            "image": "https://media.pichau.com.br/media/catalog/product/cache/ef72d3c27864510e5d4c0ce69bade259/c/b/cb4gu2666.jpg",
+            "description": "Memoria Crucial Basics, 4GB (1x4GB), DDR4, 2666MHz, CB4GU2666",
+            "price": "79,99"
+        },
+        {
+            "id": 5,
+            "image": "https://media.pichau.com.br/media/catalog/product/cache/ef72d3c27864510e5d4c0ce69bade259/c/b/cb4gu2666.jpg",
+            "description": "Memoria Crucial Basics, 4GB (1x4GB), DDR4, 2666MHz, CB4GU2666",
+            "price": "79,99"
+        }
+    ],
     "hardwares": {
         "processors": [
             {
