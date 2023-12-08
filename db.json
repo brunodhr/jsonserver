@@ -96,5 +96,43 @@
                 "price": "79,99"
             }
         ]
-    }
+    },
+    "londres": [
+        {
+            "id": 1,
+            "photo": "https://i.pinimg.com/236x/50/7d/8b/507d8be41e30463eee26f4b76483fa9c.jpg"
+        },
+        {
+            "id": 2,
+            "photo": "https://i.pinimg.com/236x/fe/b7/3a/feb73a33d7b684d892a0d3f55822a9e3.jpg"
+        },
+        {
+            "id": 3,
+            "photo": "https://i.pinimg.com/736x/84/42/76/84427633889b86b175ea1efb5217d839.jpg"
+        },
+        {
+            "id": 4,
+            "photo": "https://i.pinimg.com/236x/96/c1/fb/96c1fb47f0b2989df6e3afc8aa327f08.jpg"
+        },
+        {
+            "id": 5,
+            "photo": "https://i.pinimg.com/236x/4a/e1/90/4ae190806d42f65085d7745fe4dba23a.jpg"
+        },
+        {
+            "id": 6,
+            "photo": "https://i.pinimg.com/236x/ab/a3/c9/aba3c93a25f552eb7b6a70d477454f75.jpg"
+        },
+        {
+            "id": 7,
+            "photo": "https://i.pinimg.com/236x/f6/36/ea/f636ea6bc6a2700bd4c841f87f8abef1.jpg"
+        },
+        {
+            "id": 8,
+            "photo": "https://i.pinimg.com/236x/eb/b4/bc/ebb4bc0d2c9774f4cb4ea9881857e0dc.jpg"
+        },
+        {
+            "id": 9,
+            "photo": "https://i.pinimg.com/236x/ba/31/d0/ba31d0dadc94437b6ac69fd351e447ea.jpg"
+        }
+    ]
 }
